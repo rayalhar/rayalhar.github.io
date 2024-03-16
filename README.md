@@ -12,12 +12,15 @@ Here is the final design currently in use at the university, where the essence o
 
 ![Final Enclosure](/assets/img/finalconsolepod.png)
 
+## 1 to 1 Lasko Fan Model Replication
 
-## Project 2: [Project Title]
+![Lasko Fan Model](assets/img/fanremovebg-transformed.png)
 
-![Project 2 Image](link-to-project-2-image)
+With SolidWorks, I decided to model an exact replica of the Lasko Cyclone fan I had sitting in my room as an assembly drawing. Each part of the fan was modeled as a seperate part, as it came in the box when I bought it; the fan blades, the cage, the stand, the base, and the motor were all modeled with 1:1 scale dimensions taken with real life. The parts were then all combined into an assembly drawing, in the order of actual assembly of the product. The model's blades and stand also move just as they do in real life. 
 
-Description of Project 2. Include details similar to Project 1, focusing on what makes this project unique and how it showcases your skills and contributions to aerospace engineering.
+Here's the real life version:
+
+
 
 ## Project 3: [Project Title]
 
