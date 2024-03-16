@@ -1,4 +1,4 @@
-# Ray's Project Portfolio
+# Ray's Project Portfolio (UNDER CONSTRUCTION)
 
 Hello! This page serves to show off some of the personal projects I've completed during my time as a student at the University at Buffalo. Thanks for dropping by!
 
@@ -7,6 +7,11 @@ Hello! This page serves to show off some of the personal projects I've completed
 ![Console Enclosure Wall](/assets/img/consolepod_front_wall.PNG)
 
 This is a mock up of a console pod enclosure for my university's gaming arena known as Level Up. This was designed using SolidWorks, and it was designed in response to thermal concerns due to the use of PS5 and Xbox consoles inside of the enclosure. While the exact design was not used, some parts were used in the final design, including the presence of a metal grill and exhaust ports to dissapate heat. I also used MATLAB to fabricate a thermal analysis on the cage itself for practice with MATLAB's modeling tools.
+
+Here is the final design currently in use at the university, where the essence of the cage and parts of the enclosure are present:
+
+![Final Enclosure](/assets/img/finalconsolepod.PNG)
+
 
 ## Project 2: [Project Title]
 
