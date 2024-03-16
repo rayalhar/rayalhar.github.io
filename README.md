@@ -16,10 +16,13 @@ Here is the final design currently in use at the university, where the essence o
 
 ![Lasko Fan Model](assets/img/fanremovebg-transformed.png)
 
-With SolidWorks, I decided to model an exact replica of the Lasko Cyclone fan I had sitting in my room as an assembly drawing. Each part of the fan was modeled as a seperate part, as it came in the box when I bought it; the fan blades, the cage, the stand, the base, and the motor were all modeled with 1:1 scale dimensions taken with real life. The parts were then all combined into an assembly drawing, in the order of actual assembly of the product. The model's blades and stand also move just as they do in real life. 
+With SolidWorks, I decided to model a replica of the Lasko Cyclone fan I had sitting in my room as an assembly drawing. Each part of the fan was modeled as a seperate part, as it came in the box when I bought it; the fan blades, the cage, the stand, the base, and the motor were all modeled with 1:1 scale dimensions taken with real life. The parts were then all combined into an assembly drawing, in the order of actual assembly of the product. The model's blades and stand also move just as they do in real life. 
 
 Here's the real life version:
 
+![Lasko Fan Real](assets/img/s-l1600.jpg)
+
+The model I created was missing a few details such as the embossing on the stand, some flares on the shaft as well as the rim of the fan cage. Overall, it was really great practice modeling unusual and unsymmetric shapes in the software.
 
 
 ## Project 3: [Project Title]
