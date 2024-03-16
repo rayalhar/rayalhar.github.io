@@ -1,1 +1,37 @@
-# rayalhar.github.io
+# Aerospace Engineering Project Portfolio
+
+Welcome to my Aerospace Engineering Project Portfolio. Here you will find a collection of projects that I have worked on, demonstrating my skills and contributions to the field of aerospace engineering.
+
+## Project 1: [Project Title]
+
+![Project 1 Image](link-to-project-1-image)
+
+Description of Project 1. This should include the project's purpose, the technologies used, your role in the project, and any outcomes or findings.
+
+## Project 2: [Project Title]
+
+![Project 2 Image](link-to-project-2-image)
+
+Description of Project 2. Include details similar to Project 1, focusing on what makes this project unique and how it showcases your skills and contributions to aerospace engineering.
+
+## Project 3: [Project Title]
+
+![Project 3 Image](link-to-project-3-image)
+
+Description of Project 3. Again, provide a brief but informative description of the project, highlighting key aspects and achievements.
+
+<!-- Repeat the pattern for more projects as needed -->
+
+## About Me
+
+[Your Name] - Aerospace Engineering Student
+
+Brief bio or background information about yourself, your education, interests, and any relevant experience in the field of aerospace engineering.
+
+## Contact
+
+- Email: [your-email@example.com]
+- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/yourprofile)
+- GitHub: [GitHub profile](https://github.com/yourusername)
+
+Thank you for visiting my portfolio!
