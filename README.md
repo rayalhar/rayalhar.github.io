@@ -10,7 +10,7 @@ This is a mock up of a console pod enclosure for my university's gaming arena kn
 
 Here is the final design currently in use at the university, where the essence of the cage and parts of the enclosure are present:
 
-![Final Enclosure](/assets/img/finalconsolepod.PNG)
+![Final Enclosure](/assets/img/finalconsolepod.png)
 
 
 ## Project 2: [Project Title]
