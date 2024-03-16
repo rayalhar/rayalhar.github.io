@@ -2,11 +2,11 @@
 
 Hello! This page serves to show off some of the personal projects I've completed during my time as a student at the University at Buffalo. Thanks for dropping by!
 
-## Project 1: [Project Title]
+## Gaming Arena Console Enclosure
 
 ![Console Enclosure Wall](/assets/img/consolepod_front_wall.PNG)
 
-Description of Project 1. This should include the project's purpose, the technologies used, your role in the project, and any outcomes or findings.
+This is a mock up of a console pod enclosure for my university's gaming arena known as Level Up. This was designed using SolidWorks, and it was designed in response to thermal concerns due to the use of PS5 and Xbox consoles inside of the enclosure. While the exact design was not used, some parts were used in the final design, including the presence of a metal grill and exhaust ports to dissapate heat. I also used MATLAB to fabricate a thermal analysis on the cage itself for practice with MATLAB's modeling tools.
 
 ## Project 2: [Project Title]
 
