@@ -4,7 +4,7 @@ Hello! This page serves to show off some of the personal projects I've completed
 
 ## Project 1: [Project Title]
 
-![Project 1 Image](link-to-project-1-image)
+![Console Enclosure Wall](/assets/img/consolepod_front_wall.PNG)
 
 Description of Project 1. This should include the project's purpose, the technologies used, your role in the project, and any outcomes or findings.
 
