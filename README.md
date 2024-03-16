@@ -1,6 +1,6 @@
-# Aerospace Engineering Project Portfolio
+# Ray's Project Portfolio
 
-Welcome to my Aerospace Engineering Project Portfolio. Here you will find a collection of projects that I have worked on, demonstrating my skills and contributions to the field of aerospace engineering.
+Hello! This page serves to show off some of the personal projects I've completed during my time as a student at the University at Buffalo. Thanks for dropping by!
 
 ## Project 1: [Project Title]
 
