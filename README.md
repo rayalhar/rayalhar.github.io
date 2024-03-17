@@ -1,6 +1,3 @@
----
-youtubeId: S8HvcAMuXr4
----
 
 # Ray's Project Portfolio 
 
@@ -66,11 +63,22 @@ This draft was entered into SUNY Niagara Community College's Tech Wars, an engin
 
 # Volunteering and other projects
 
-{% include youtubePlayer.html id=page.youtubeId %}
+## University at Buffalo IT Communication and Engagement
+![Volunteer](assets/img/Rayvolunteer.jpeg)
 
+As part of my leadership position at UBIT that comes with my employment, on occasion I collaborate with the university's IT Communication and Engagement social media team as a student representative to promote good IT habits at the university from a student's perspective.
 
+Here's a video that I did with current Information Technology VPCIO Brice Bible (also a former engineer!!) during Fall 2023 move-in day at our South Campus:
+<video controls>
+  <source src="https://github.com/rayalhar/rayalhar.github.io/raw/main/assets/img/UBIT360.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
+I am also currently working another video with the IT Communcations and Engagement team as of 3/2024.
 
+## University at Buffalo Nanosatellite Laboratory: GLADOS (Glint Analyzing Data Observation Satellite) 
+
+GLADOS is a 6U CubeSat out of the UB Nanosat Laboratory that is slated for a 2025 launch, selected by NASA and the AirForce for their small satellite program. I am part of the Operations team in which we deal with preparing for the satellite's daily communication and operation once it is launched. This subsystem requires enhanced knowledge about every part of the satellite, which means I have to juggle knowledge about the Thermal, Structures, Guidance and Navigation, etc. I am also in charge of the Mission Control room present in the lab, where I deal with everything hardware and software present in the space.
 
 
 <!-- Repeat the pattern for more projects as needed -->
