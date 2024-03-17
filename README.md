@@ -76,7 +76,11 @@ I am also currently working another video with the IT Communcations and Engageme
 
 ## University at Buffalo Nanosatellite Laboratory: GLADOS (Glint Analyzing Data Observation Satellite) 
 
+![GLADOS Badge](assets/img/gladosbadge.jpg)
+
 GLADOS is a 6U CubeSat out of the UB Nanosat Laboratory that is slated for a 2025 launch, selected by NASA and the AirForce for their small satellite program. I am part of the Operations team in which we deal with preparing for the satellite's daily communication and operation once it is launched. This subsystem requires enhanced knowledge about every part of the satellite, which means I have to juggle knowledge about the Thermal, Structures, Guidance and Navigation, etc. I am also in charge of the Mission Control room present in the lab, where I deal with everything hardware and software present in the space.
+
+![GLADOS](assets/img/glados.jpg)
 
 
 <!-- Repeat the pattern for more projects as needed -->
