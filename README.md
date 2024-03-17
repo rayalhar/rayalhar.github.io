@@ -47,6 +47,10 @@ After conducting a FMA with an applied force of P at the top of the steel plate,
 
 ![FEM Analysis](assets/img/femanalysis.jpeg)
 
+Pretty cool, right?
+
+## Boom Swing Bearing 2-D Technical Drawing
+
 
 <!-- Repeat the pattern for more projects as needed -->
 
