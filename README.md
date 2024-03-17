@@ -38,11 +38,14 @@ For this demo, I purposely used values that would return extreme properties to s
 
 ## Thin Plate Finite Method Analysis (FMA)
 
-As a challenge from my Structures of Analysis course textbook, I decided to do an FMA on a theoretical steel thin plate as given as a challenge question. Here is the mesh provided:
+As a challenge from my Structures of Analysis course textbook, I decided to do an FMA on a theoretical steel thin plate as given as a challenge question. 
+
+Here is the mesh provided:
 ![FEM Mesh](assets/img/femmesh.png)
 
 After conducting a FMA with an applied force of P at the top of the steel plate, this is the result:
-![FEM Mesh](assets/img/femanalysis.png)
+
+![FEM Analysis](assets/img/femanalysis.jpeg)
 
 
 <!-- Repeat the pattern for more projects as needed -->
