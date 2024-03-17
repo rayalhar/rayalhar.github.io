@@ -25,7 +25,7 @@ Here's the real life version:
 The model I created was missing a few details such as the embossing on the stand, some flares on the shaft as well as the rim of the fan cage. Overall, it was really great practice modeling unusual and unsymmetric shapes in the software.
 
 ## Steam Turbine Ideal Rankine Cycle Simulator
-![Project 3 Image](link-to-project-3-image)
+![Ideal Rankine Cycle](assets/img/Rankine-Cycle.png)
 
 Using MATLAB, I developed a small program to simulate the ideal rankine cycle in a steam turbine, a concept reviewed in a Thermodynamics course I took previously as an assistant to help me with a course final project. This program took input for multiple variables such as inlet pressure, temperature, pump speed, efficiency, flow rate. The resulting output gave quantites such as the quality of the steam, the overall thermal efficiency, and even power generated during the cycle. This allows one to see the impact of changing variables such as pressure and temperature in a quick and efficient manner.
 
