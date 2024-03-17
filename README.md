@@ -1,4 +1,4 @@
-# Ray's Project Portfolio (UNDER CONSTRUCTION)
+# Ray's Project Portfolio 
 
 Hello! This page serves to show off some of the personal projects I've completed during my time as a student at the University at Buffalo. Thanks for dropping by!
 
@@ -62,18 +62,26 @@ This draft was entered into SUNY Niagara Community College's Tech Wars, an engin
 
 
 
+
+
 <!-- Repeat the pattern for more projects as needed -->
 
 ## About Me
 
-[Your Name] - Aerospace Engineering Student
+[Ray Al Haraz] - Aerospace/Mechanical Engineering Student at the University at Buffalo
 
-Brief bio or background information about yourself, your education, interests, and any relevant experience in the field of aerospace engineering.
+Hi! My name is Ray, and I'm currently a third year student studying Aerospace Engineering at the University at Buffalo, in the School of Engineering and Applied Sciences. I've had an interest in anything that flies in our atmosphere (or out!) ever since I could remember. I have a strong passion for this field and am hoping to stay in it for life!
+
+I'm currently working as a Technician at UB's customer service oriented IT division, Tech Squad, where I am bestowed with the pleasure of helping hundreds of students, staff, and faculty navigate their technological needs and journey at the university in order to better their experience. I also assist managers and supervisors in running the team as well as administrative duties including managing UB's state of the art eSports and technology hub known as Level Up on campus.
+
+I've also had the awesome experience at working in the upper-echelons of the retail industry at Apple, where I was given the chance to join the Walden Galleria store for a season. In one of the few Apple retail locations around the country, I helped thousands of individuals with catering to their technological needs and concerns with the help of Apple's cutting edge product line.
+
 
 ## Contact
 
-- Email: [your-email@example.com]
-- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/yourprofile)
-- GitHub: [GitHub profile](https://github.com/yourusername)
+- University Email: [rayalhar@buffalo.edu]
+- Personal Email: [rayalharaz@gmail.com]
+- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/rayalhar)
+- GitHub: [GitHub profile](https://github.com/rayalhar)
 
 Thank you for visiting my portfolio!
