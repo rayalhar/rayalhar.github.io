@@ -60,7 +60,7 @@ Here's my rendition of this exercise:
 
 This draft was entered into SUNY Niagara Community College's Tech Wars, an engineering centered competition, specifically in their technical drafting category and went on to win 1st place in the category.
 
-
+# Volunteering and other projects
 
 
 
@@ -68,7 +68,7 @@ This draft was entered into SUNY Niagara Community College's Tech Wars, an engin
 
 ## About Me
 
-[Ray Al Haraz] - Aerospace/Mechanical Engineering Student at the University at Buffalo
+Aerospace/Mechanical Engineering Student at the University at Buffalo
 
 Hi! My name is Ray, and I'm currently a third year student studying Aerospace Engineering at the University at Buffalo, in the School of Engineering and Applied Sciences. I've had an interest in anything that flies in our atmosphere (or out!) ever since I could remember. I have a strong passion for this field and am hoping to stay in it for life!
 
@@ -79,8 +79,8 @@ I've also had the awesome experience at working in the upper-echelons of the ret
 
 ## Contact
 
-- University Email: [rayalhar@buffalo.edu]
-- Personal Email: [rayalharaz@gmail.com]
+- University Email: rayalhar@buffalo.edu
+- Personal Email: rayalharaz@gmail.com
 - LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/rayalhar)
 - GitHub: [GitHub profile](https://github.com/rayalhar)
 
