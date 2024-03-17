@@ -69,9 +69,8 @@ This draft was entered into SUNY Niagara Community College's Tech Wars, an engin
 As part of my leadership position at UBIT that comes with my employment, on occasion I collaborate with the university's IT Communication and Engagement social media team as a student representative to promote good IT habits at the university from a student's perspective.
 
 Here's a video that I did with current Information Technology VPCIO Brice Bible (also a former engineer!!) during Fall 2023 move-in day at our South Campus:
-<div style="position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;">
-  <iframe src="https://github.com/rayalhar/rayalhar.github.io/raw/main/assets/img/UBIT360.mp4" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-</div>
+[![Video Thumbnail](https://i.ytimg.com/vi/S8HvcAMuXr4/sddefault.jpg)](https://www.youtube.com/watch?v=S8HvcAMuXr4)
+
 
 
 I am also currently working another video with the IT Communcations and Engagement team as of 3/2024.
