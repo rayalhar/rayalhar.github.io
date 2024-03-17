@@ -29,8 +29,13 @@ The model I created was missing a few details such as the embossing on the stand
 
 Using MATLAB, I developed a small program to simulate the ideal rankine cycle in a steam turbine, a concept reviewed in a Thermodynamics course I took previously as an assistant to help me with a course final project. This program took input for multiple variables such as inlet pressure, temperature, pump speed, efficiency, flow rate. The resulting output gave quantites such as the quality of the steam, the overall thermal efficiency, and even power generated during the cycle. This allows one to see the impact of changing variables such as pressure and temperature in a quick and efficient manner.
 
+For steam table calculations, I used a MATLAB function created by UB SEAS faculty given to students, which automatically calculating all enthalpys and entropies needed. 
+
 Here's a quick demo of the simulator:
-INSERT GIF HERE
+![Rankine Cycle Sim](assets/img/MATLAB_OnsYmmTjRx.gif)
+
+For this demo, I purposely used values that would return extreme properties to show the flexibility of the program using essentially any value. While the outputs may not be realistic, it makes the impact of changing things such as temperature and pressure on the cycle much easier to see.
+
 
 <!-- Repeat the pattern for more projects as needed -->
 
