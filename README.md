@@ -51,6 +51,16 @@ Pretty cool, right?
 
 ## Boom Swing Bearing 2-D Technical Drawing
 
+![Power Crane](assets/img/powercrane.jpg)
+
+This is a drafting exercise taken from the Technical Drawing with Engineering Graphics textbook, a book out of Embry Riddle and Montana State University used to teach advance drafting techniques that is more applicable to industry, versus the introductory drafting courses taught by many universities. While I was not a university student when I attempted this exercise, this is still more advanced than any drawing I have completed as a student to this day and probably will be more advanced than anything requried in an ABET cirriculum.
+
+Here's my rendition of this exercise:
+![Power Crane Drawing](assets/img/drop_off.jpg)
+
+This draft was entered into SUNY Niagara Community College's Tech Wars, an engineering centered competition, specifically in their technical drafting category and went on to win 1st place in the category.
+
+
 
 <!-- Repeat the pattern for more projects as needed -->
 
