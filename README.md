@@ -36,6 +36,14 @@ Here's a quick demo of the simulator:
 
 For this demo, I purposely used values that would return extreme properties to show the flexibility of the program using essentially any value. While the outputs may not be realistic, it makes the impact of changing things such as temperature and pressure on the cycle much easier to see.
 
+## Thin Plate Finite Method Analysis (FMA)
+
+As a challenge from my Structures of Analysis course textbook, I decided to do an FMA on a theoretical steel thin plate as given as a challenge question. Here is the mesh provided:
+![FEM Mesh Given](assets/img/FEM mesh.png)
+
+After conducting a FMA with an applied force of P at the top of the steel plate, this is the result:
+
+
 
 <!-- Repeat the pattern for more projects as needed -->
 
