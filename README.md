@@ -1,3 +1,7 @@
+---
+youtubeId: S8HvcAMuXr4
+---
+
 # Ray's Project Portfolio 
 
 Hello! This page serves to show off some of the personal projects I've completed during my time as a student at the University at Buffalo. Thanks for dropping by!
@@ -61,6 +65,11 @@ Here's my rendition of this exercise:
 This draft was entered into SUNY Niagara Community College's Tech Wars, an engineering centered competition, specifically in their technical drafting category and went on to win 1st place in the category.
 
 # Volunteering and other projects
+
+{% include youtubePlayer.html id=page.youtubeId %}
+
+
+
 
 
 
