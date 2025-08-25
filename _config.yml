@@ -1,14 +1,14 @@
 title: Ray Al Haraz
-logo: /assets/img/headshot.jpg
-description: Aerospace Engineer  
-show_downloads: false
+logo: /assets/img/headshot.jpg   # replace with your image path
+description: >
+  Aerospacer Engineer  
+  University at Buffalo Graduate (2025)
 
-social_links:
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/rayalhar
-  - title: GitHub
-    url: https://github.com/rayalhar
-  - title: Resume
-    url: /assets/RayAlHaraz_Resume.pdf
-  - title: Email
-    url: mailto:rayalharaz@gmail.com
+show_downloads: false
+theme: jekyll-theme-minimal
+
+# Add contact/social links for sidebar
+linkedin: https://www.linkedin.com/in/rayalhar
+github: https://github.com/rayalhar
+email: rayalharaz@gmail.com
+resume: /assets/RayAlHaraz_Resume.pdf
