@@ -1,7 +1,13 @@
 
 # Ray's Project Portfolio 
 
-Hello! This page serves to show off some of the personal projects I've completed during my time as a student at the University at Buffalo. Thanks for dropping by!
+Hello! This page serves to show off some of the projects, experiences and media work I've completed throughout my time as a student and beyond at the University at Buffalo. Thanks for stopping by.
+
+# About Me
+I’m an aerospace engineer who’s spent a lot of time around satellite systems, but what sets me apart is that I’ve also built up a wide range of tech skills outside the classroom. From engineering projects to hands-on tech work, I’ve had the chance to blend problem-solving, systems thinking, and people skills in a way that isn’t typical for most engineers.
+
+I like taking on challenges where I can learn something new, whether it’s in aerospace, engineering, or any technology-driven space. My goal is simple: keep growing, keep building, and apply my skills wherever they can make the biggest impact.
+
 
 ## Gaming Arena Console Enclosure
 
