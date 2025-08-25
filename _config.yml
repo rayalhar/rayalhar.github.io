@@ -1,14 +1,11 @@
 title: Ray Al Haraz
-logo: /assets/img/headshot.jpg   # replace with your image path
-description: >
-  Aerospace Engineer  
-  University at Buffalo Graduate (2025)
-
-show_downloads: false
+logo: /assets/img/headshot.jpg
 theme: jekyll-theme-minimal
 
-# Add contact/social links for sidebar
-linkedin: https://www.linkedin.com/in/rayalhar
-github: https://github.com/rayalhar
-email: rayalharaz@gmail.com
-resume: /assets/RayAlHaraz_Resume.pdf
+# This text renders in the LEFT sidebar under your name/photo.
+description: |
+  Aerospace Engineer — University at Buffalo (2025)<br>
+  <a href="mailto:rayalharaz@gmail.com">rayalharaz@gmail.com</a><br>
+  <a href="https://www.linkedin.com/in/rayalhar" target="_blank">LinkedIn</a> ·
+  <a href="https://github.com/rayalhar" target="_blank">GitHub</a> ·
+  <a href="/assets/Ray_Al_Haraz_Resume.pdf" target="_blank">Résumé (PDF)</a>
