@@ -1,7 +1,16 @@
 
-# Ray's Project Portfolio 
+# Projects
 
-Hello! This page serves to show off some of the projects, experiences and media work I've completed throughout my time as a student and beyond at the University at Buffalo. Thanks for stopping by.
+## University at Buffalo Nanosatellite Laboratory: GLADOS (Glint Analyzing Data Observation Satellite) 
+
+![GLADOS Badge](assets/img/gladosbadge.jpg)
+
+GLADOS is a 6U CubeSat out of the UB Nanosat Laboratory that is slated for a 2025 launch, selected by NASA and the AirForce for their small satellite program. I am part of the Operations team in which we deal with preparing for the satellite's daily communication and operation once it is launched. This subsystem requires enhanced knowledge about every part of the satellite, which means I have to juggle knowledge about the Thermal, Structures, Guidance and Navigation, etc. I am also in charge of the Mission Control room present in the lab, where I deal with everything hardware and software present in the space.
+
+![GLADOS](assets/img/glados.jpg)
+
+
+
 
 # About Me
 I’m an aerospace engineer who’s spent a lot of time around satellite systems, but what sets me apart is that I’ve also built up a wide range of tech skills outside the classroom. From engineering projects to hands-on tech work, I’ve had the chance to blend problem-solving, systems thinking, and people skills in a way that isn’t typical for most engineers.
