@@ -1,3 +1,14 @@
 title: Ray Al Haraz
-logo: /assets/img/headshot.jpg
-theme: jekyll-theme-minimal
+logo: /assets/img/profile.jpg
+description: Aerospace Engineer  
+show_downloads: false
+
+social_links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rayalhar
+  - title: GitHub
+    url: https://github.com/rayalhar
+  - title: Resume
+    url: /assets/RayAlHaraz_Resume.pdf
+  - title: Email
+    url: mailto:rayalharaz@gmail.com
