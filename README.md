@@ -25,3 +25,9 @@ _Tools: MATLAB, Simulink, Python, SDR radios_
 - GitHub: [GitHub profile](https://github.com/rayalhar)
 
 Thank you for visiting my portfolio!
+ <!-- Inline PDF viewer (works on desktop; falls back to a link on some mobiles) -->
+<object data="/assets/Project-Portfolio.pdf" type="application/pdf" width="100%" height="900">
+  <p>Your browser can’t display PDFs inline.
+     <a href="/assets/Project-Portfolio.pdf" target="_blank">Open the portfolio (PDF)</a>.
+  </p>
+</object>
