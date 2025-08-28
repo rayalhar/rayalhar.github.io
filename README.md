@@ -17,6 +17,15 @@ _Tools: MATLAB, Simulink, Python, SDR radios_
 <img src="assets/img/gladosbadge.jpg" alt="GLADOS Badge" width="250"/>
 
 
+ <!-- Inline PDF viewer (works on desktop; falls back to a link on some mobiles) -->
+<object data="/assets/Project-Portfolio.pdf" type="application/pdf" width="100%" height="900">
+  <p>Your browser can’t display PDFs inline.
+     <a href="/assets/Project-Portfolio.pdf" target="_blank">Open the portfolio (PDF)</a>.
+  </p>
+</object>
+
+
+
 ## Contact
 
 - University Email: rayalhar@buffalo.edu
@@ -25,9 +34,3 @@ _Tools: MATLAB, Simulink, Python, SDR radios_
 - GitHub: [GitHub profile](https://github.com/rayalhar)
 
 Thank you for visiting my portfolio!
- <!-- Inline PDF viewer (works on desktop; falls back to a link on some mobiles) -->
-<object data="/assets/Project-Portfolio.pdf" type="application/pdf" width="100%" height="900">
-  <p>Your browser can’t display PDFs inline.
-     <a href="/assets/Project-Portfolio.pdf" target="_blank">Open the portfolio (PDF)</a>.
-  </p>
-</object>
