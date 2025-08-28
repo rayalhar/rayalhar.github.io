@@ -1,29 +1,22 @@
 
 # Projects
 
+[⬇ Download full PDF](/assets/Project%20Portfolio.pdf)
 
-## GLADOS CubeSat — Mission Operations, Mission Control Lead
+## GLADOS — Mission Operations
+<img src="/assets/img/Project%20Portfolio_page-0002.jpg" alt="GLADOS — Mission Operations" width="100%">
 
-<img src="assets/img/glados.jpg" alt="GLADOS" width="500"/>
+## Private Jet Concept Design
+<img src="/assets/img/Project%20Portfolio_page-0003.jpg" alt="Private Jet Concept Design" width="100%">
 
-GLADOS, or Glint Analyzing Data Observation Satellite, is a nanosatellite being developed by the UBNL (University at Buffalo Nanosatellite Program) under the University Nanosatellite Program. 
-I am part of the Operations team, which deals with preparing for the satellite’s daily communication and operation once it is launched.
+## High-Altitude Balloon (Autonomous Heading)
+<img src="/assets/img/Project%20Portfolio_page-0004.jpg" alt="High-Altitude Balloon" width="100%">
 
-- **My Goal:** Support a 6U CubeSat mission to characterize GEO objects.  
-- **My Work:** Built mission control testbed, wrote exception-handling docs, integrated subsystems.  
-- **Result:** Delivered validated ground systems and ops procedures ahead of 2025 launch.  
-_Tools: MATLAB, Simulink, Python, SDR radios_
+## Car Dashboard Mechatronics
+<img src="/assets/img/Project%20Portfolio_page-0005.jpg" alt="Car Dashboard Mechatronics" width="100%">
 
-<img src="assets/img/gladosbadge.jpg" alt="GLADOS Badge" width="250"/>
-
-
- <!-- Inline PDF viewer (works on desktop; falls back to a link on some mobiles) -->
-<object data="/assets/Project-Portfolio.pdf" type="application/pdf" width="100%" height="900">
-  <p>Your browser can’t display PDFs inline.
-     <a href="/assets/Project-Portfolio.pdf" target="_blank">Open the portfolio (PDF)</a>.
-  </p>
-</object>
-
+## Satellite Rendezvous / Inspection
+<img src="/assets/img/Project%20Portfolio_page-0006.jpg" alt="Satellite Rendezvous / Inspection" width="100%">
 
 
 ## Contact
