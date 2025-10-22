@@ -18,6 +18,10 @@
 ## Satellite Rendezvous / Inspection
 <img src="/assets/img/Project%20Portfolio_page-0006.jpg" alt="Satellite Rendezvous / Inspection" width="100%">
 
+## Sounding Rocket Propulsion Analysis
+<img src="/assets/img/Project_Portfolio_V2_page-0007.jpg" alt="Sounding Rocket Propulsion Analysis" width="100%">
+
+
 
 ## Contact
 
